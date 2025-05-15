@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Narendra Singh</h1>
-<h3 align="center">A passionate backend developer learning and building in Java and Spring Boot</h3>
+<h1 >Hi 👋, I'm Narendra Singh</h1>
+A passionate backend developer learning and building in Java and Spring Boot
 
 ---
 
@@ -8,18 +8,16 @@
 - 👀 I’m interested in programming and software development  
 - 🌱 Currently learning **Web Development (Front-End + Back-End)**  
 - 💬 Ask me about **Java**, **Spring Boot**, or anything backend  
-- 💞️ I’m looking to collaborate on **Web 3.0 projects**  
 - 📫 How to reach me:  
-  - [LinkedIn](https://www.linkedin.com/in/kumar-shashwat-982741212)  
+  - [LinkedIn](https://www.linkedin.com/in/narendra-singh-7b37ab276/)  
   - Discord: `your_discord_id` *(replace with actual ID)*  
 
 ---
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-shashwat-982741212)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-singh-7b37ab276/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/NarendraSi78215))
 
 ---
 
@@ -41,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwat329&show_icons=true&theme=tokyonight" alt="shashwat329" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat329&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narendrasingh2005&show_icons=true&theme=tokyonight" alt="Narendrasingh2005" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendrasingh2005&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
 ---
@@ -50,5 +48,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashwat329&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Narendrasingh2005&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
