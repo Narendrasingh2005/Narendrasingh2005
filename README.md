@@ -10,7 +10,6 @@ A passionate backend developer learning and building in Java and Spring Boot
 - 💬 Ask me about **Java**, **Spring Boot**, or anything backend  
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/narendra-singh-7b37ab276/)  
-  - Discord: `your_discord_id` *(replace with actual ID)*  
 
 ---
 
