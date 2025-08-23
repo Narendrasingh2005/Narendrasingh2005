@@ -7,7 +7,7 @@ A passionate backend developer learning and building in Java and Spring Boot
 
 - 👀 I’m interested in programming and software development  
 - 🌱 Currently learning **Web Development (Front-End + Back-End)**  
-- 💬 Ask me about **Java**, **Spring Boot**  
+- 💬 Ask me about **Java**, **Spring Boot**  , **JavaScript** , **React**
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/narendra-singh-7b37ab276/)  
 
