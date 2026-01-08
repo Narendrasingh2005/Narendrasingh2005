@@ -2,7 +2,6 @@
 A passionate backend developer learning and building in Java and Spring Boot
 
 ---
-
 ### 👨‍💻 About Me
 
 - 👀 I’m interested in programming and software development  
