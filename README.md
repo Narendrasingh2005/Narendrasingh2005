@@ -1,6 +1,5 @@
 <h1 >Hi 👋, I'm Narendra Singh</h1>
 A passionate backend developer learning and building in Java and Spring Boot
----
 
 
 ### 👨‍💻 About Me
@@ -44,5 +43,5 @@ A passionate backend developer learning and building in Java and Spring Boot
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Narendrasingh2005&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Narendrasingh2005&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
 </p>
