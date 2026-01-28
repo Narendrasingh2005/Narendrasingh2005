@@ -1,6 +1,5 @@
 <h1 >Hi 👋, I'm Narendra Singh</h1>
 A passionate backend developer learning and building in Java and Spring Boot
-
 ---
 ### 👨‍💻 About Me
 
